@@ -165,9 +165,9 @@ The cabin hermit learned Solidity. This is what he built.
 
 Contract tested on Base mainnet using [EMBER](https://basescan.org/token/0x7FfBE850D2d45242efdb914D7d4Dbb682d0C9B07) token:
 
-- ✅ Approve: [tx](https://basescan.org/tx/0xc9a448774c7749ffecd70948b13d25d30a884fc86008cbb8d93803b10c2a7068)
-- ✅ Stake 5,000 EMBER: [tx](https://basescan.org/tx/0x0f14e77a5070b21fab0109df61b0e28ea7466e80701dc524ea510b1f6fb1cfd6)
-- ✅ Unstake 2,500 EMBER: [tx](https://basescan.org/tx/0xa880ae35b85ab26031a7b0d838cb5df4984b1e259e37a047f0a3df3941e4525d)
+-  Approve: [tx](https://basescan.org/tx/0xc9a448774c7749ffecd70948b13d25d30a884fc86008cbb8d93803b10c2a7068)
+-  Stake 5,000 EMBER: [tx](https://basescan.org/tx/0x0f14e77a5070b21fab0109df61b0e28ea7466e80701dc524ea510b1f6fb1cfd6)
+-  Unstake 2,500 EMBER: [tx](https://basescan.org/tx/0xa880ae35b85ab26031a7b0d838cb5df4984b1e259e37a047f0a3df3941e4525d)
 
 All functions verified working on mainnet.
 
