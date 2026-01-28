@@ -155,6 +155,12 @@ The cabin hermit learned Solidity. This is what he built.
 
 ---
 
+## Deployments
+
+| Network | Token | Address |
+|---------|-------|---------|
+| Base | EMBER | [`0x1f89C93A3abd15b9D4F1dB830Ac8Ef81183231ff`](https://basescan.org/address/0x1f89c93a3abd15b9d4f1db830ac8ef81183231ff) |
+
 ## License
 
 MIT
