@@ -1,4 +1,4 @@
-# InverseVote 🔄
+# InverseVote 
 
 **Flip the plutocracy. Smaller holders get more voting power per token.**
 
